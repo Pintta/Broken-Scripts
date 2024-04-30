@@ -14,3 +14,5 @@ https://github.com/Pintta/Broken-Drift
 https://github.com/Pintta/Broken-Cocaine
 #
 https://github.com/Pintta/Broken-HelmetFix
+#
+https://github.com/Pintta/Broken-Logs
