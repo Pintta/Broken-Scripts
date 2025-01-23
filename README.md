@@ -24,3 +24,5 @@ https://github.com/Pintta/Broken-TaxSystem
 https://github.com/Pintta/Broken-BusStops
 #
 https://github.com/Pintta/Broken-PizzaChef
+#
+https://github.com/Pintta/Broken-PaymentTerminal
